@@ -135,7 +135,7 @@ def update_charts(region, avocado_type, start_date, end_date):
         ],
         "layout": {
             "title": {
-                "text": "Average Price of Avocados",
+                "text": "Axis",
                 "x": 0.05,
                 "xanchor": "left",
             },
@@ -154,7 +154,7 @@ def update_charts(region, avocado_type, start_date, end_date):
             },
         ],
         "layout": {
-            "title": {"text": "Avocados Sold", "x": 0.05, "xanchor": "left"},
+            "title": {"text": "Axis", "x": 0.05, "xanchor": "left"},
             "xaxis": {"fixedrange": True},
             "yaxis": {"fixedrange": True},
             "colorway": ["#E12D39"],
